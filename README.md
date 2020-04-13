@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # QR-Reader-App
 Application developed in Flutter. I used a library to scan QR code, if you scan a 'geo' type code, the application use Mapbox to visualize it. If you scan a 'https', the application use your default browser to open it. If you scan a distinct QR, it will be stored in other tab. All scans will be stored in the phone storage and you can see it in its correspondant tab.
 
