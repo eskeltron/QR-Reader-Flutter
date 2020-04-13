@@ -11,7 +11,7 @@ One of the views that Mapbox offers is the "light view".
 
 ![MapLight](https://i.ibb.co/z75mcyd/4b437689-1693-4873-863d-392e2b476310.jpg)
 
-If you press the button at the bottom right corner, you can change the view. Among these views you can find street, dark, light and satelital views.
+If you press the button in the bottom right corner, you can change the view. Among these views you can find street, dark, light and satelital views.
 
 the dark view.
 
